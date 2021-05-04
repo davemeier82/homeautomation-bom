@@ -57,6 +57,7 @@
         <homeautomation-hivemq.version>0.0.1-SNAPSHOT</homeautomation-hivemq.version>
         <homeautomation-instar.version>0.0.1-SNAPSHOT</homeautomation-instar.version>
         <homeautomation-shelly.version>0.0.1-SNAPSHOT</homeautomation-shelly.version>
+        <homeautomation-zigbee2mqtt.version>0.0.1-SNAPSHOT</homeautomation-zigbee2mqtt.version>
         <homeautomation-spring-rest.version>0.0.1-SNAPSHOT</homeautomation-spring-rest.version>
         <homeautomation-spring-core.version>0.0.1-SNAPSHOT</homeautomation-spring-core.version>
     </properties>
@@ -82,6 +83,11 @@
                 <groupId>com.github.davemeier82.homeautomation</groupId>
                 <artifactId>homeautomation-shelly</artifactId>
                 <version>${homeautomation-shelly.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.github.davemeier82.homeautomation</groupId>
+                <artifactId>homeautomation-zigbee2mqtt</artifactId>
+                <version>${homeautomation-zigbee2mqtt.version}</version>
             </dependency>
             <dependency>
                 <groupId>com.github.davemeier82.homeautomation</groupId>
