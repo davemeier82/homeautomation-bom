@@ -60,6 +60,7 @@
         <homeautomation-zigbee2mqtt.version>0.0.1-SNAPSHOT</homeautomation-zigbee2mqtt.version>
         <homeautomation-spring-rest.version>0.0.1-SNAPSHOT</homeautomation-spring-rest.version>
         <homeautomation-spring-core.version>0.0.1-SNAPSHOT</homeautomation-spring-core.version>
+        <homeautomation-influxdb2.version>0.0.1-SNAPSHOT</homeautomation-influxdb2.version>
     </properties>
 
     <dependencyManagement>
@@ -98,6 +99,11 @@
                 <groupId>com.github.davemeier82.homeautomation</groupId>
                 <artifactId>homeautomation-spring-core</artifactId>
                 <version>${homeautomation-spring-core.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.github.davemeier82.homeautomation</groupId>
+                <artifactId>homeautomation-influxdb2</artifactId>
+                <version>${homeautomation-influxdb2.version}</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
