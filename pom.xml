@@ -20,7 +20,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.github.davemeier82.homeautomation</groupId>
+    <groupId>io.github.davemeier82.homeautomation</groupId>
     <artifactId>homeautomation-bom</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
@@ -66,42 +66,42 @@
     <dependencyManagement>
         <dependencies>
             <dependency>
-                <groupId>com.github.davemeier82.homeautomation</groupId>
+                <groupId>io.github.davemeier82.homeautomation</groupId>
                 <artifactId>homeautomation-core</artifactId>
                 <version>${homeautomation-core.version}</version>
             </dependency>
             <dependency>
-                <groupId>com.github.davemeier82.homeautomation</groupId>
+                <groupId>io.github.davemeier82.homeautomation</groupId>
                 <artifactId>homeautomation-hivemq</artifactId>
                 <version>${homeautomation-hivemq.version}</version>
             </dependency>
             <dependency>
-                <groupId>com.github.davemeier82.homeautomation</groupId>
+                <groupId>io.github.davemeier82.homeautomation</groupId>
                 <artifactId>homeautomation-instar</artifactId>
                 <version>${homeautomation-instar.version}</version>
             </dependency>
             <dependency>
-                <groupId>com.github.davemeier82.homeautomation</groupId>
+                <groupId>io.github.davemeier82.homeautomation</groupId>
                 <artifactId>homeautomation-shelly</artifactId>
                 <version>${homeautomation-shelly.version}</version>
             </dependency>
             <dependency>
-                <groupId>com.github.davemeier82.homeautomation</groupId>
+                <groupId>io.github.davemeier82.homeautomation</groupId>
                 <artifactId>homeautomation-zigbee2mqtt</artifactId>
                 <version>${homeautomation-zigbee2mqtt.version}</version>
             </dependency>
             <dependency>
-                <groupId>com.github.davemeier82.homeautomation</groupId>
+                <groupId>io.github.davemeier82.homeautomation</groupId>
                 <artifactId>homeautomation-spring-rest</artifactId>
                 <version>${homeautomation-spring-rest.version}</version>
             </dependency>
             <dependency>
-                <groupId>com.github.davemeier82.homeautomation</groupId>
+                <groupId>io.github.davemeier82.homeautomation</groupId>
                 <artifactId>homeautomation-spring-core</artifactId>
                 <version>${homeautomation-spring-core.version}</version>
             </dependency>
             <dependency>
-                <groupId>com.github.davemeier82.homeautomation</groupId>
+                <groupId>io.github.davemeier82.homeautomation</groupId>
                 <artifactId>homeautomation-influxdb2</artifactId>
                 <version>${homeautomation-influxdb2.version}</version>
             </dependency>
