@@ -52,7 +52,7 @@
     </issueManagement>
 
     <properties>
-        <homeautomation-core.version>0.5.4-SNAPSHOT</homeautomation-core.version>
+        <homeautomation-core.version>0.6.0</homeautomation-core.version>
         <homeautomation-hivemq.version>0.5.2-SNAPSHOT</homeautomation-hivemq.version>
         <homeautomation-influxdb2.version>0.5.2-SNAPSHOT</homeautomation-influxdb2.version>
         <homeautomation-instar.version>0.5.2-SNAPSHOT</homeautomation-instar.version>
