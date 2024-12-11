@@ -52,15 +52,15 @@
     </issueManagement>
 
     <properties>
-        <homeautomation-core.version>0.6.2</homeautomation-core.version>
-        <homeautomation-hivemq.version>0.6.2</homeautomation-hivemq.version>
-        <homeautomation-influxdb2.version>0.6.2</homeautomation-influxdb2.version>
-        <homeautomation-instar.version>0.6.2</homeautomation-instar.version>
-        <homeautomation-shelly.version>0.6.2</homeautomation-shelly.version>
-        <homeautomation-spring-core.version>0.6.2</homeautomation-spring-core.version>
-        <homeautomation-spring-rest.version>0.6.2</homeautomation-spring-rest.version>
-        <homeautomation-weewx.version>0.6.2</homeautomation-weewx.version>
-        <homeautomation-zigbee2mqtt.version>0.6.2</homeautomation-zigbee2mqtt.version>
+        <homeautomation-core.version>0.6.3</homeautomation-core.version>
+        <homeautomation-hivemq.version>0.6.3</homeautomation-hivemq.version>
+        <homeautomation-influxdb2.version>0.6.3</homeautomation-influxdb2.version>
+        <homeautomation-instar.version>0.6.3</homeautomation-instar.version>
+        <homeautomation-shelly.version>0.6.3</homeautomation-shelly.version>
+        <homeautomation-spring-core.version>0.6.3</homeautomation-spring-core.version>
+        <homeautomation-spring-rest.version>0.6.3</homeautomation-spring-rest.version>
+        <homeautomation-weewx.version>0.6.3</homeautomation-weewx.version>
+        <homeautomation-zigbee2mqtt.version>0.6.3</homeautomation-zigbee2mqtt.version>
     </properties>
 
     <dependencyManagement>
