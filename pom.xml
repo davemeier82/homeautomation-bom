@@ -20,7 +20,7 @@
 
     <groupId>io.github.davemeier82.homeautomation</groupId>
     <artifactId>homeautomation-bom</artifactId>
-    <version>0.6.4-SNAPSHOT</version>
+    <version>0.6.4</version>
     <packaging>pom</packaging>
 
     <name>${project.groupId}:${project.artifactId}</name>
@@ -44,7 +44,7 @@
         <connection>scm:git:git://github.com/davemeier82/homeautomation-bom.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/davemeier82/homeautomation-bom.git</developerConnection>
         <url>https://github.com/davemeier82/homeautomation-bom</url>
-        <tag>HEAD</tag>
+        <tag>homeautomation-bom-0.6.4</tag>
     </scm>
     <issueManagement>
         <system>GitHub</system>
